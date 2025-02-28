@@ -1,0 +1,53 @@
+body {
+    background-color: #141010;
+    color: #f70776;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Title Styling */
+.stTitle {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    color: #ff00c8;
+}
+
+/* Subtitle Text */
+.stMarkdown {
+    text-align: center;
+    font-size: 1.2em;
+    color: #dddddd;
+}
+
+/* Input Container */
+.container {
+    background: rgba(183, 55, 55, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 60%;
+}
+
+/* Button Styling */
+button {
+    background-color: #f70776!important;
+    color: #030303 !important;
+    font-weight: bold;
+    border-radius: 10px !important;
+}
+
+/* Success Message */
+.stAlert-success {
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Error Message */
+.stAlert-error {
+    background-color: #dc3545;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
