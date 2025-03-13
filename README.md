@@ -1,4 +1,5 @@
 # Bank-Churn-Prediction-and-Insights
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSML8WrktMAFWi1YC-EVL6uOZhtf-nGjxfKMA&s" height="500" width="800">
 <h2>Project Description</h2>
 <P>Customer retention is a crucial aspect of the banking industry, as acquiring new customers is often more expensive than retaining existing ones. This project aims to analyze customer churn patterns and develop a predictive model that helps banks identify customers at risk of leaving. By leveraging historical customer data, we can uncover key factors influencing churn and take proactive measures to improve customer engagement.</P>
 
