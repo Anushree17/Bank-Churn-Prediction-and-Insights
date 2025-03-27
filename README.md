@@ -43,6 +43,7 @@ The "Satisfaction Score" represents how satisfied a customer is with the bank's 
   <li>Model Building:Developed and trained a Logistic Regression model as the primary classifier for predicting customer churn.</li>
   <li>Evaluation Metrics:Used Accuracy, Precision, Recall, F1-score, and ROC-AUC to assess model performance.Evaluated the model's effectiveness in distinguishing between churned and retained customers.</li>
 </ul>
+<a href="https://huggingface.co/spaces/Anujha17/Bank_Churn">Web App</a>
 
 <h2>Impact</h2>
 <ul>
