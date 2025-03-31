@@ -41,7 +41,7 @@ The "Satisfaction Score" represents how satisfied a customer is with the bank's 
   <li>Data Analysis Processed a dataset with 10,000 rows and 18 columns and used Recursive Feature Elimination and Mutual Information Gain for optimal feature selection.</li>
   <li>Feature Selection:Implemented Recursive Feature Elimination (RFE) and Mutual Information to identify the most important features.Selected the top 7 most relevant features for churn prediction.</li>
   <li>Model Building:Developed and trained a Logistic Regression model as the primary classifier for predicting customer churn.</li>
-  <li>Evaluation Metrics:Used Accuracy, Precision, Recall, F1-score, and ROC-AUC to assess model performance.Evaluated the model's effectiveness in distinguishing between churned and retained customers.</li>
+  <li>Evaluation Metrics:Used Accuracy, Precision, Recall and F1-score to assess model performance.Evaluated the model's effectiveness in distinguishing between churned and retained customers.</li>
 </ul>
 <a href="https://huggingface.co/spaces/Anujha17/Bank_Churn">Web App</a>
 
